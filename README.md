@@ -1,4 +1,4 @@
-#Rule-Based Chatbot
+**Rule-Based Chatbot**
 The Rule-Based Chatbot is an interactive conversational agent built using Python. It engages users in discussions about various topics and responds based on predefined rules and patterns.
 
 Features:
